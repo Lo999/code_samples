@@ -9,6 +9,4 @@ It helped me enormously. The 's' in sconsole is for Sam (that's me!)
 update-badge.blade.php & 
 UpdateBadge --
 
-A livewire component that updates a member's badge that will be printed for the MESA annual meeting.
-This component displays code in the TALL stack (Tailwind, Alpine.js, Livewire, & Laravel)
-I've included screenshots to show how it works!
+A livewire component that updates a member's badge that will be printed for the MESA annual meeting. This component displays code in the TALL stack (Tailwind, Alpine.js, Livewire, & Laravel). I've included screenshots to show how it works!
